@@ -1,0 +1,1 @@
+# background_removal_based_on_semnatic_segmentation
